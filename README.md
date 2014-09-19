@@ -1,4 +1,0 @@
-HardcoreFactions
-================
-
-Jamie O'Rourke
